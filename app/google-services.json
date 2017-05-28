@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66552898954",
+    "firebase_url": "https://facedetection-f5595.firebaseio.com",
+    "project_id": "facedetection-f5595",
+    "storage_bucket": "facedetection-f5595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66552898954:android:c52d43a4ead8b1a7",
+        "android_client_info": {
+          "package_name": "fi.aalto.headcount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66552898954-dfm1eh22fj54gls7uq9s4o7mb96o948a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yBZy_CFII5GQsGX49vg5UZqeteIvS6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

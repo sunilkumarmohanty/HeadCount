@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeadCount</string>
+    <string name="FB_CAMERAS">cameras</string>
+    <string name="FB_FACES">faces</string>
+    <string name="logout">Logout</string>
+    <string name="addcamera">Add Camera</string>
+</resources>
